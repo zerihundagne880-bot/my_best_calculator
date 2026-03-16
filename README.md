@@ -24,9 +24,6 @@
   <p><i>የአኒሜሽን ፕሮጀክቱ በስልክ ሲታይ</i></p>
 </div>
 
-
-![Calculator Preview](screenshot.png)
-
 ---
 
 ### 🚀 እንዴት መጠቀም ይቻላል? (How to Use)
