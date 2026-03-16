@@ -12,6 +12,12 @@ A sleek, high-performance calculator built with HTML5, CSS3, and JavaScript. Fea
 - 🧹 **Advanced Controls:** Includes `Clear All` and `Backspace`.
 
 ---
+### 📸 Preview
+
+<div align="center">
+  <img src="Screenshot_20260316_172149_Spck Editor.jpg" width="350" alt="Calculator Preview" style="border-radius: 15px; border: 2px solid #ddd;">
+  <p><i>Live Mobile Preview</i></p>
+</div>
 
 ### 🚀 Getting Started
 1. **Clone:** `git clone https://github.com/zerihundagne880-bot/my_best_calculator.git`
