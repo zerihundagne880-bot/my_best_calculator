@@ -17,8 +17,13 @@
 
 ---
 
-### 📸 የፕሮግራሙ ገጽታ (Preview)
-> **ጠቃሚ ምክር:** የካልኩሌተርህን ፎቶ (Screenshot) አንስተህ እዚህ ጋር ብትጨምረው ሰዎች ሳይከፍቱት እንዲያዩት ይረዳል።
+### 📸 የፕሮጀክቱ ገጽታ (Preview)
+
+<div align="center">
+  <img src="Screenshot_20260316_172149_Spck Editor.jpg" width="350" alt="Animation Preview" style="border-radius: 15px; border: 2px solid #ddd;">
+  <p><i>የአኒሜሽን ፕሮጀክቱ በስልክ ሲታይ</i></p>
+</div>
+
 
 ![Calculator Preview](screenshot.png)
 
